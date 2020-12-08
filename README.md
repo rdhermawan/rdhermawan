@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a:
+- Fullstack developer
+- JavasScript enthusiast
+
 <!--
 **rdhermawan/rdhermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
